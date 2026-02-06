@@ -4,7 +4,7 @@ Welcome to my personal portfolio website, built using **HTML, CSS, and JavaScrip
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Live Site
 🌍 [View My Portfolio Website](https://nikhil-prt.netlify.app)  
 
 ---
