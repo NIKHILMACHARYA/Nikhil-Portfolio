@@ -2,6 +2,9 @@
 
 A modern, responsive portfolio website built with React and Vite, showcasing professional experience, skills, projects, and certifications.
 
+## 🌐 Live Website
+🌍 [View My Portfolio Website](https://nikhilmacharya.onrender.com)  
+
 ## 🌟 Features
 
 ### Interactive Sections
