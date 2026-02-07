@@ -72,35 +72,33 @@ const Experience = () => {
     const experiences = [
         {
             icon: <FaBriefcase />,
-            title: "Full Stack Developer",
-            company: "Tech Solutions Inc.",
+            title: "Full Stack Development Intern",
+            company: "Eye Q Dot Net Pvt Ltd",
             companyLogo: "", // Add your company logo path here
-            location: "Remote",
+            location: "Mangalore, Karnataka",
             period: "Jan 2024 - Present",
             responsibilities: [
-                "Architected and developed scalable web applications using MERN stack, serving 50K+ active users",
-                "Implemented microservices architecture reducing server response time by 40%",
-                "Led a team of 3 developers and conducted code reviews ensuring best practices",
-                "Integrated third-party APIs and payment gateways for e-commerce platforms",
-                "Established CI/CD pipelines with Docker and Jenkins, improving deployment efficiency by 60%"
+                'Developing a full-stack Capture-The-Flag (CTF) competition platform using React, Vite, Node.js, and PostgreSQL with Supabase integration',
+                'Implemented JWT authentication, role-based access control, and real-time leaderboard functionality',
+                'Built secure backend API with rate limiting and Row-Level Security (RLS) policies',
+                'Developed user authentication, challenge management, and leaderboard tracking systems',
             ],
-            technologies: ["React", "Node.js", "MongoDB", "Express", "AWS", "Docker", "Redis", "TypeScript"]
+            technologies: ["React", "Vite", "Node.js", "PostgreSQL", "Supabase", "JWT", "RLS", "Git",]
         },
         {
             icon: <FaCode />,
-            title: "Frontend Developer",
-            company: "Digital Innovations Ltd.",
+            title: "MERN Stack Development Intern",
+            company: "Softionik Solutions Pvt Ltd",
             companyLogo: "", // Add your company logo path here
-            location: "Bangalore, India",
-            period: "Jun 2023 - Dec 2023",
+            location: "Mangalore, Karnataka",
+            period: "May 2025 - June 2025",
             responsibilities: [
-                "Developed responsive SPAs using React.js with Redux for state management",
-                "Optimized application performance achieving 95+ Lighthouse scores",
-                "Collaborated with UX team to implement pixel-perfect designs from Figma",
-                "Implemented lazy loading and code splitting reducing initial load time by 50%",
-                "Mentored junior developers and conducted weekly knowledge sharing sessions"
+                'Developed Employee & Student Management System using MERN stack with responsive UI and real-time dashboard',
+                'Built and tested 25+ RESTful API endpoints using Node.js and Express.js, streamlining data flow and frontend-backend integration',
+                'Optimized MongoDB queries using indexing and query restructuring, improving database performance by 30%',
+                'Implemented secure file upload system, user authentication, and CRUD operations for multiple entities',
             ],
-            technologies: ["React", "Redux", "JavaScript", "SASS", "Webpack", "Jest", "Figma", "Git"]
+            technologies: ['MongoDB', 'Express.js', 'React', 'Node.js', 'REST API', "GitHub", "JWT", "Mongoose","Postman"]
         },
         
     ];
