@@ -76,7 +76,7 @@ const Experience = () => {
             company: "Eye Q Dot Net Pvt Ltd",
             companyLogo: "", // Add your company logo path here
             location: "Mangalore, Karnataka",
-            period: "Jan 2024 - Present",
+            period: "Jan 2026 - Present",
             responsibilities: [
                 'Developing a full-stack Capture-The-Flag (CTF) competition platform using React, Vite, Node.js, and PostgreSQL with Supabase integration',
                 'Implemented JWT authentication, role-based access control, and real-time leaderboard functionality',
