@@ -49,7 +49,6 @@ function App() {
 
     const hiddenElements = document.querySelectorAll('.scroll-scale, .scroll-bottom, .scroll-top');
     hiddenElements.forEach((el) => observer.observe(el));
-
     return () => {
       hiddenElements.forEach((el) => observer.unobserve(el));
     };
